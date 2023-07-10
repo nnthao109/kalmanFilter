@@ -4,7 +4,7 @@ This a simple mouse tracking application implemented with Kalman filter.
 
 ## Dependences
 
-- Python 3.6
+- Python 3         .6
 - opencv-python==3.4.1.15
   - numpy [required: >=1.11.3, installed: 1.14.5]
 
